@@ -1,22 +1,22 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Kunal Soni..</h1>
 
-# Hi 👋, I'm Kunal Soni..
+<h3 align="center">
+🤖 AI/ML Student • Data Science Enthusiast • Analytics Learner • Future ML Engineer 🚀
+</h3>
 
-### 📊 Data Science Enthusiast • AI Explorer • Analytics Learner • Future ML Engineer 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Insights+📊;Exploring+AI+%26+Machine+Learning+🤖;Learning+Data+Science+Step+by+Step+🚀;Analytics+Driven+Problem+Solver+✨" />
+</p>
 
-## Turning Data Into Insights 📈
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunalsoni272008&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;AI%2FML+Student;Python+Developer;Data+Analytics+Learner;Future+ML+Engineer)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=kunalsoni272008&color=blue&style=for-the-badge)
-
-</div>
-
----
+<img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 # 💫 About Me
 
-💡 Passionate fresher exploring the world of **Data Science, Artificial Intelligence, and Analytics.**
+💡 Passionate student exploring the world of **Data Science, Artificial Intelligence, and Analytics**.
 
 📊 Interested in uncovering patterns, analyzing data, and building intelligent solutions using modern technologies.
 
@@ -33,9 +33,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:kunalsoni272008@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://github.com/kunalsoni272008" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
+
+<a href="mailto:kunalsoni272008@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
 </p>
 
 ---
@@ -48,19 +54,22 @@
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-## 🛠 Tools & Platforms
+## 📊 Data Science & AI
+
+<p align="left">
+<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analytics-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9C27B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-673AB7?style=for-the-badge" />
+</p>
+
+## 🛠️ Tools & Platforms
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-## 📊 Data Science & AI
-
-![Python](https://img.shields.io/badge/Python-Data%20Science-blue?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
-![AI](https://img.shields.io/badge/Artificial-Intelligence-purple?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/Data-Visualization-red?style=for-the-badge)
 
 ---
 
@@ -68,17 +77,13 @@
 
 <p align="left">
 
-🔹 Python for Data Science
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-🔹 SQL & Database Management
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-🔹 Pandas & NumPy
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 
-🔹 Data Visualization
-
-🔹 Machine Learning
-
-🔹 Statistics for Data Science
+<img src="https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge"/>
 
 </p>
 
@@ -86,35 +91,43 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalsoni272008&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsoni272008&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsoni272008&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsoni272008&theme=tokyonight" />
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kunalsoni272008&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kunalsoni272008&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalsoni272008&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsoni272008&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<div align="center">
+### 📊 Data Science Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunalsoni272008&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌸 Iris Classification
+- 🏠 House Price Prediction
+- 😊 Sentiment Analysis
+- 📉 Customer Churn Prediction
+- 🛒 Supermarket Sales Analysis
 
-</div>
+### 🤖 Machine Learning Projects
+
+- 🚀 More AI/ML Projects Coming Soon
 
 ---
 
@@ -131,29 +144,9 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 📊 Data Science Projects
-
-🔹 Iris Classification
-
-🔹 House Price Prediction
-
-🔹 Customer Churn Prediction
-
-🔹 Sentiment Analysis
-
-🔹 Supermarket Sales Analysis
-
-### 🤖 Machine Learning Projects
-
-🔹 Future ML Projects Coming Soon
-
----
-
 # ✨ Data Science Mindset
 
-> "Without data, you're just another person with an opinion."
+> “Without data, you're just another person with an opinion.”
 
 ---
 
@@ -165,24 +158,20 @@
 
 # ✨ Random Dev Quote
 
-<div align="center">
-
-> *"What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds."*
->
-> **— Steve Jobs**
-
-</div>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/kunalsoni272008/kunalsoni272008/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<p align="center">
+<img src="https://github.com/kunalsoni272008/kunalsoni272008/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+</p>
