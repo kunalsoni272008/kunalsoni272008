@@ -44,5 +44,7 @@ Supermarket Sales Analysis
 SQL Project
 
 
-Contribution Snake
-.github/workflows/snake.yml
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/kunalsoni272008/kunalsoni272008/blob/output/github-contribution-grid-snake.svg)
+
